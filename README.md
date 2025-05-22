@@ -1,42 +1,45 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center">Hi 👋, I'm Surendar Chandrasekaran</h1>
-<h3 align="center">Associate Software Engineer • I build scalable software, engineer data pipelines, automate infrastructure, and design cloud-native systems.</h3>
+<h3 align="center">Software Developer | Data Engineer | DevOps Engineer | Cloud Engineer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ncsurendar&label=Profile%20views&color=0e75b6&style=flat" alt="ncsurendar" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 💼 Currently working as an **Associate Software Engineer** at **Accenture**  
-- 🔧 I can work across roles: **Software Engineer**, **Data Engineer**, **DevOps Engineer**, **Cloud Engineer**  
-- ☁️ Experienced in **Azure**, **AWS**, and **Oracle Cloud Infrastructure**  
-- 🔁 Data Engineering with tools like **PySpark**, **Apache Kafka**, **Hadoop**, and **Redshift**  
-- 🔌 I design and develop APIs using **REST**, **gRPC**, and **GraphQL**  
-- 🚀 I enjoy building scalable, event-driven systems and backend microservices  
+### 🎯 Current Role  
+- 🧑‍💼 Associate Software Engineer (ASE) at **Accenture**
+
+---
+
+## 👨‍💻 What I Do  
+- 🧰 Backend Developer with focus on **Java + Spring Boot**  
+- ☁️ Working with **Azure** and **AWS** cloud environments  
+- 🛠️ DevOps experience with **Terraform**, **Docker**, **Kubernetes**  
+- 🧪 Building scalable data pipelines using **ETL tools** and **Redshift**  
+- 🧱 Crafting clean, testable APIs and automations with **Java**, **Python**, and **Cloud Functions**
 
 ---
 
 ## 📜 Certifications  
 - ☕ Oracle Certified Java SE 17 Developer  
 - 🏢 Oracle Certified Java EE 8 Enterprise Developer  
-- ☁️ Oracle Cloud Infrastructure Certified Foundations Associate  
 - 🤖 AWS Certified AI Practitioner  
 - 📊 ETL & Data Warehousing – AWS Skill Builder  
-- 🛠️ DevOps, Docker & Kubernetes – Udemy + Real Projects  
+- 🛠️ DevOps, Docker & Kubernetes – Udemy + Project Experience  
 
 ---
 
-## ⚡ Interests & Projects  
-- 💻 Java-based microservices and backend projects  
-- 📈 Real-time & Event-driven applications using Kafka and REST/gRPC  
-- 🧪 Data Engineering: ETL pipelines, batch + real-time processing  
-- 🔍 Exploring Generative AI, ML APIs, and cloud-native architectures  
-- 🔧 Building reusable tools, scripts, and dashboards  
+## ⚡ Interests & Side Projects  
+- 🧠 Distributed Systems, Workflow Engines (Temporal.io)  
+- 🧪 AI + ML Experiments with Generative AI & Stable Diffusion  
+- 🧰 Automation Scripts for real-world tasks  
+- 📂 Backend-centric microservices and architecture demos  
 
 ---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -79,15 +82,15 @@
 ---
 
 ## 💬 Ask Me About
-- Java / Spring Boot / Clean Microservice Architecture  
-- Cloud Infrastructure, Security, and DevOps  
-- Data Streaming & ETL Workflows (Kafka, Spark, PySpark)  
-- API Development with REST / gRPC / GraphQL  
-- Automation with Terraform, Docker, Kubernetes  
+- Java / Spring / API Design  
+- AWS Redshift / ETL / Data Engineering  
+- Terraform / DevOps / Automation  
+- Backend Architecture & Microservices  
+- Solving DSA & designing scalable systems  
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/surendar-c" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>&nbsp;
   <a href="https://leetcode.com/surendar_c" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" /></a>&nbsp;
@@ -96,8 +99,8 @@
 
 ---
 
-## 🧩 Fun Facts  
-- 💡 Solved 500+ DSA problems across LeetCode & GFG  
-- ⚙️ Automate cloud workflows & deploy apps in minutes  
-- 🔁 Worked on systems processing real-time event streams  
-- 📦 Love converting raw ideas into production-grade apps
+## 🧩 Fun Facts
+- 💡 Solved 500+ DSA problems  
+- 👨‍🏫 Enjoy helping others learn Java, Cloud, and DevOps  
+- 🔄 Always building tools that simplify life  
+- 📈 Curious learner, always exploring new technologies
