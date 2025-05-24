@@ -13,7 +13,7 @@
 - 🧰 Backend Developer focused on **Java + Spring Boot**  
 - ☁️ Cloud Engineering with **Azure** and **AWS**  
 - 🛠️ DevOps: **Terraform**, **Docker**, **Kubernetes**  
-- 🧪 Building scalable data pipelines using **PySpark**, **Apache Flink**, **Apache Airflow**, **Apache Kafka**, and **AWS Redshift**  
+- 🧪 Building scalable data pipelines using **PySpark**, **Apache Hive**, **Apache Flink**, **Apache Airflow**, **Apache Kafka**, and **AWS Redshift**  
 - 🧱 Designing clean, testable APIs using **REST**, **gRPC**, **GraphQL**  
 - 🏗️ Implementing backend microservices and **Event-Driven Architectures**  
 
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Redshift-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Hadoop-%23EE682F?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Hive-%23FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Flink-%2300BFFF?style=for-the-badge&logo=apacheflink&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Spark-%23E75A2B?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-%23FF0000?style=for-the-badge&logo=apachekafka&logoColor=white" />
