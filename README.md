@@ -13,7 +13,7 @@
 - 🧰 Backend Developer focused on **Java + Spring Boot**  
 - ☁️ Cloud Engineering with **Azure** and **AWS**  
 - 🛠️ DevOps: **Terraform**, **Docker**, **Kubernetes**  
-- 🧪 Building scalable data pipelines using **PySpark**, **Apache Flink**, **Apache Kafka**, and **AWS Redshift**  
+- 🧪 Building scalable data pipelines using **PySpark**, **Apache Flink**, **Apache Airflow**, **Apache Kafka**, and **AWS Redshift**  
 - 🧱 Designing clean, testable APIs using **REST**, **gRPC**, **GraphQL**  
 - 🏗️ Implementing backend microservices and **Event-Driven Architectures**  
 
@@ -31,7 +31,7 @@
 ---
 
 ## ⚡ Interests & Side Projects  
-- 🧠 Distributed Systems, Workflow Engines (Temporal.io)  
+- 🧠 Distributed Systems, Workflow Engines  
 - 🧪 AI + ML Experiments with Generative AI & Stable Diffusion  
 - 🧰 Automation Scripts for real-world tasks  
 - 📂 Backend-centric microservices and architecture demos  
@@ -89,9 +89,9 @@
 
 ## 💬 Ask Me About
 - Java / Spring Boot / API Design (REST, gRPC, GraphQL)  
-- Data Engineering: PySpark, Apache Hadoop, Flink, Spark, Kafka  
+- Data Engineering: PySpark, Apache Hadoop, Flink, Spark, Airflow, Kafka  
 - AWS Redshift / ETL / Scalable Data Pipelines  
-- Terraform / DevOps / CI/CD Automation  
+- Terraform / DevOps / CI/CD Automation 
 - Backend Architecture, Microservices, Event-Driven Systems  
 - Solving DSA & Designing Scalable Systems  
 
