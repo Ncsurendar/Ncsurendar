@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi 👋, I'm Surendar Chandrasekaran</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Developer | Data Engineer | DevOps Engineer | Cloud Engineer</h3>
+<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Software Developer | Data Engineer | Analytics and BI Engineer | Cloud and DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ncsurendar&label=Profile%20views&color=0e75b6&style=flat" alt="ncsurendar" />
@@ -11,9 +11,9 @@
 
 ## 👨‍💻 What I Do  
 - 🧰 Backend Developer focused on **Java + Spring Boot**  
-- ☁️ Cloud Engineering with **Azure** and **AWS**  
+- ☁️ Cloud Engineering with **Azure** and **GCP**  
 - 🛠️ DevOps: **Terraform**, **Docker**, **Kubernetes**  
-- 🧪 Building scalable data pipelines using **PySpark**, **Apache Hive**, **Apache Flink**, **Apache Airflow**, **Apache Kafka**, and **AWS Redshift**  
+- 🧪 Building scalable data pipelines using **Databricks (PySpark)**, **Apache Flink**, **Apache Airflow**, **Azure Synapse / BigQuery**, **Event Hubs / Kafka / Pub/Sub**, and **Delta Lake** 
 - 🧱 Designing clean, testable APIs using **REST**, **gRPC**, **GraphQL**  
 - 🏗️ Implementing backend microservices and **Event-Driven Architectures**  
 
@@ -32,9 +32,9 @@
 
 ## ⚡ Interests & Side Projects  
 - 🧠 Distributed Systems, Workflow Engines  
-- 🧪 AI + ML Experiments with Generative AI & Stable Diffusion  
-- 🧰 Automation Scripts for real-world tasks  
-- 📂 Backend-centric microservices and architecture demos  
+- 🧪 AI + ML into Analytics (Data Science)  
+- 🧰 Automation Scripts for real-world tasks
+- 📂 Backend-centric microservices and architecture demos 
 
 ---
 
